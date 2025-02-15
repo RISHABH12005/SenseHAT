@@ -1,2 +1,2 @@
-# Sense-Hat
+# Sense Hat
 Sense Hat
