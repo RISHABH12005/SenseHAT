@@ -9,7 +9,7 @@ The **Sense HAT** is an advanced add-on board for the Raspberry Pi, equipped wit
 | Feature | Description |
 |---------|------------|
 | 🌡️ **Environmental Sensors** | Measures **temperature, humidity, atmospheric pressure**. |
-| 🛰️ **Motion Sensors** | Built-in **gyroscope, accelerometer, magnetometer** for orientation and movement detection. |
+| 🛰️ **Motion Sensors** | Built-in **gyroscope, accelerometer, magnetometer** for orientation & movement detection. |
 | 💡 **LED Matrix** | 8×8 **RGB display** for visuals & messages. |
 | 🎮 **Joystick** | A **5-way joystick** for user interaction. |
 | 🔄 **Python API** | Easy-to-use **Python library** for accessing all sensors & display. |
@@ -18,3 +18,5 @@ The **Sense HAT** is an advanced add-on board for the Raspberry Pi, equipped wit
 
 ## 🛠️ Installation  
 
+```besh
+sudo apt install sense-hat -y
