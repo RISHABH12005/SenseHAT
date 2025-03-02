@@ -1,6 +1,6 @@
 # Sense HAT 
 
-The *Sense HAT* is an advanced add-on board for the Raspberry Pi, equipped with environmental sensors, motion detection capabilities, and an *8×8 RGB LED matrix*. It is widely used in *IoT, weather monitoring, robotics,space projects (like Astro Pi on the ISS )*.  
+An advanced add-on board for the Raspberry Pi, equipped with environmental sensors, motion detection capabilities, and an *8×8 RGB LED matrix*. It is widely used in *IoT, weather monitoring, robotics,space projects (like Astro Pi on the ISS )*.  
 
 ---
 
