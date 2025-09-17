@@ -18,7 +18,21 @@ An advanced add-on board for the Raspberry Pi, equipped with environmental senso
 ---
 
 ## Installation  
-
+```bash
+sudo raspi-config
+```
+```bash
+sudo reboot
+```
 ```bash
 sudo apt install sense-hat -y
+```
+```bash
+pip install sense-hat
+```
+```bash
+sudo apt install sense-emu-tools -y
+```
+```bash
+sense_emu_gui
 ```
